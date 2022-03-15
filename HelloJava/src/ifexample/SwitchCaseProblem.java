@@ -7,6 +7,7 @@ public class SwitchCaseProblem {
 	public static void main(String[] args) {
 		int day = 0;
 		boolean no = false;
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("원하시는 월을 적어주세요. : ");
 		int month = scanner.nextInt();

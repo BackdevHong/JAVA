@@ -9,6 +9,7 @@ public class IfProblem {
 	}
 
 	public static void main(String[] args) {
+			@SuppressWarnings("resource")
 			Scanner scanner = new Scanner(System.in);
 			System.out.println("점수 판정 시스템에 어서오세요! made by 홍인성");
 			System.out.print("점수를 입력해주세요! : ");

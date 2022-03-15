@@ -7,6 +7,7 @@ public class WhileInput {
 	public static void main(String[] args) {
 		int input;
 		int sum = 0;
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		input = scanner.nextInt();
 		
