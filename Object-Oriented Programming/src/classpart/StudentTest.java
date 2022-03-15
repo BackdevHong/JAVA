@@ -8,5 +8,13 @@ public class StudentTest {
 
         studentLee.showStudentInfo();
 
+        Student studentkim = new Student();
+        studentkim.studentName = "김유신";
+        studentkim.address = "경주";
+
+        studentkim.showStudentInfo();
+
+        System.out.println(studentkim);
+        System.out.println(studentLee);
     }
 }
