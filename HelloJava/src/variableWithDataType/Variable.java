@@ -3,23 +3,23 @@ package variableWithDataType;
 public class Variable {
 
 	public static void main(String[] args) {
-		int age; // ¼±¾ğ
+		int age; // ì„ ì–¸
 
-		age = 19; // °ªÀ» ´ëÀÔ
-		System.out.println(age); // Ãâ·Â
+		age = 19; // ê°’ì„ ëŒ€ì…
+		System.out.println(age); // ì¶œë ¥
 		
-		age = 10; // ¶Ç ´Ù¸¥ °ªÀ» ´ëÀÔ
-		System.out.println(age); // Ãâ·Â
+		age = 10; // ë˜ ë‹¤ë¥¸ ê°’ì„ ëŒ€ì…
+		System.out.println(age); // ì¶œë ¥
 		
-		int count, count2; // µ¿½Ã ¼±¾ğ ( ÃßÃµ µå¸®Áø ¾ÊÀ½ )		
-	  //System.out.println(count); // °ªÀÌ ¾øÀ¸¸é Ãâ·ÂµÇÁö ¾ÊÀ½
-	  //System.out.println(count2); // °ªÀÌ ¾øÀ¸¸é Ãâ·ÂµÇÁö ¾ÊÀ½
-		count = 1; // °ª ´ëÀÔ
-		count2 = 1; // °ª ´ëÀÔ	
-		System.out.println(count); // Ãâ·Â
-		System.out.println(count2); // Ãâ·Â
+		int count, count2; // ë™ì‹œ ì„ ì–¸ ( ì¶”ì²œ ë“œë¦¬ì§„ ì•ŠìŒ )		
+	  //System.out.println(count); // ê°’ì´ ì—†ìœ¼ë©´ ì¶œë ¥ë˜ì§€ ì•ŠìŒ
+	  //System.out.println(count2); // ê°’ì´ ì—†ìœ¼ë©´ ì¶œë ¥ë˜ì§€ ì•ŠìŒ
+		count = 1; // ê°’ ëŒ€ì…
+		count2 = 1; // ê°’ ëŒ€ì…	
+		System.out.println(count); // ì¶œë ¥
+		System.out.println(count2); // ì¶œë ¥
 		
-		int numberOfStudent = 17; // º¯¼ö´Â ¼Ò¹®ÀÚ·Î ½ÃÀÛÀ» ÇÏ¿© Áß°£Áß°£ ´ë¹®ÀÚ¸¦ ½áÁÖ°í, ±æ°Ô ½áÁÖ´Â°Ô ÁÁ´Ù.
-		System.out.println(numberOfStudent); // Ãâ·Â
+		int numberOfStudent = 17; // ë³€ìˆ˜ëŠ” ì†Œë¬¸ìë¡œ ì‹œì‘ì„ í•˜ì—¬ ì¤‘ê°„ì¤‘ê°„ ëŒ€ë¬¸ìë¥¼ ì¨ì£¼ê³ , ê¸¸ê²Œ ì¨ì£¼ëŠ”ê²Œ ì¢‹ë‹¤.
+		System.out.println(numberOfStudent); // ì¶œë ¥
 	}
 }
