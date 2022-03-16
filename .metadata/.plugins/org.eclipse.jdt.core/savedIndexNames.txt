@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\ghddl\git\fastcampus_Java\.metadata\.plugins\org.eclipse.jdt.core
-1808637612.index
-1210658807.index
