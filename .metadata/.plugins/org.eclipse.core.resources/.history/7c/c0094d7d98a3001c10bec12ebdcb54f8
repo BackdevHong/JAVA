@@ -1,0 +1,17 @@
+package variableWithDataType;
+
+public class Variable {
+
+	public static void main(String[] args) {
+		int age; // 선언
+		
+		age = 19; // 값을 대입
+		
+		System.out.println(age); // 출력
+		
+		age = 10; // 또 다른 값을 대입
+		
+		System.out.println(age); // 출력
+	}
+
+}

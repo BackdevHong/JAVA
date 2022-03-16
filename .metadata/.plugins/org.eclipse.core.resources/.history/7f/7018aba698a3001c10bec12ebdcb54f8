@@ -1,0 +1,27 @@
+package variableWithDataType;
+
+public class Variable {
+
+	public static void main(String[] args) {
+		int age; // 선언
+		
+		age = 19; // 값을 대입
+		
+		System.out.println(age); // 출력
+		
+		age = 10; // 또 다른 값을 대입
+		
+		System.out.println(age); // 출력
+		
+		int count, count2; // 동시 선언 ( 추천 드리진 않음 )
+		
+//		System.out.println(count + count2); // 값이 없으면 출력되지 않음
+		
+		count += 1;
+		count2 += 1;
+		
+		System.out.println(count);
+		System.out.println(count2);
+	}
+
+}
