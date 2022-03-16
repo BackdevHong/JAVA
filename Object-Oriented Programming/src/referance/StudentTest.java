@@ -1,6 +1,6 @@
 package referance;
 
-public class StudentTest {
+public class   StudentTest {
     public static void main(String[] args) {
         Student studentLee = new Student(100, "Lee");
         studentLee.setKoreaSubject("국어",100);
