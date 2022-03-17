@@ -24,4 +24,15 @@ public class Student {
         return studentName;
     }
 
+    public int getStudentID(){
+        return studentID;
+    }
+
+    public static int getSerialNum() {
+        return serialNum;
+    }
+
+    public static void setSerialNum(int serialNum) {
+        Student.serialNum = serialNum;
+    }
 }
