@@ -4,11 +4,11 @@
 
 ## > 1. [자바의 기초](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/)<br/>
 
-## >> 1-1. [Hello World](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/hello)<br/>
-## >> 1-2. [연산자](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/operator)<br/>
-## >> 1-3. [제어문(If, Else)](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/ifexample)<br/>
-## >> 1-4. [반복문(For, While)](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/loopexample)<br/>
-## >> 1-5. [데이터 타입, 변수](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/variableWithDataType)
+> 1-1. [Hello World](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/hello)<br/>
+> 1-2. [연산자](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/operator)<br/>
+> 1-3. [제어문(If, Else)](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/ifexample)<br/>
+> 1-4. [반복문(For, While)](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/loopexample)<br/>
+> 1-5. [데이터 타입, 변수](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/variableWithDataType)
 
 > **2. [객체지향 프로그래밍](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming)<br/>**
 
