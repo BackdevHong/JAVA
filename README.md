@@ -18,7 +18,7 @@
 
 >> 2-1. [클래스와 객체](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)<br/>
 >> 2-2. [함수와 메서드](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)<br/>
->> 2-3. [인스턴스, 힙 메모리](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)
+>> 2-3. [인스턴스, 힙 메모리](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)<br/>
 >> *2-SP1. [중간 문제 1 - 사람에 정보를 출력하라!](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/personinfo)*<br/>
 
 <hr/>
