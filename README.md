@@ -4,7 +4,7 @@
 
 <br/>
 
-> 1. [자바의 기초](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/)<br/>
+> **1. [자바의 기초](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/)<br/>**
 >> 1-1. [Hello World](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/hello)<br/>
 >> 1-2. [연산자](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/operator)<br/>
 >> 1-3. [제어문(If, Else)](https://github.com/BackdevHong/fastcampus_Java/tree/main/HelloJava/src/ifexample)<br/>
@@ -13,7 +13,7 @@
 
 <br />
 
-> 2. [객체지향 프로그래밍](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming)<br/>
+> **2. [객체지향 프로그래밍](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming)<br/>**
 >> 2-1. [클래스와 객체](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)<br/>
 >> 2-2. [함수와 메서드](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)<br/>
 >> 2-3. [인스턴스, 힙 메모리](https://github.com/BackdevHong/fastcampus_Java/tree/main/Object-Oriented%20Programming/src/classpart)<br/>
