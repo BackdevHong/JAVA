@@ -1,6 +1,6 @@
-package inheritance;
+package polymorphism;
 
-public class VIPCustomer extends Customer{
+public class VIPCustomer extends Customer {
     double salesRatio;
     private int agentID;
 

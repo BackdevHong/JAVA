@@ -1,11 +1,12 @@
-package inheritance;
+package customer;
 
-public class VIPCustomer extends Customer{
+public class VIPCustomer extends Customer {
     double salesRatio;
     private int agentID;
 
-    public VIPCustomer(int customerID, String customerName) {
+    public VIPCustomer(int customerID, String customerName, int agentID) {
         super(customerID, customerName);
+        this.agentID = agentID;
         customerGrade = "VIP";
         bonusRatio = 0.05;
         salesRatio = 0.1;

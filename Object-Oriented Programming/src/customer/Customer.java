@@ -1,4 +1,4 @@
-package inheritance;
+package customer;
 
 public class Customer {
     protected int customerID;
