@@ -1,4 +1,4 @@
-package interfaceex;
+package interfaceelement;
 
 public class CompleteCalc extends Calculator {
     @Override
@@ -17,4 +17,7 @@ public class CompleteCalc extends Calculator {
     public void showInfo(){
         System.out.println("모두 구현 완료!!");
     }
+//    public void description(){
+//        System.out.println("재정의 한 description");
+//    }
 }
