@@ -36,6 +36,7 @@ public class Book {
                         System.out.println("책 이름 : " + e.title + " / 책 평점 : " + e.star);
                         System.out.println("================================================");
                     }
+                    break;
                 case 3:
                     System.exit(0);
                 default:
