@@ -7,15 +7,15 @@ public class StudentTest {
 		studentLee.studentId = 12345;
 		studentLee.setStudentName("Lee");
 		studentLee.address = "서울 강남구";
-		
+
 		studentLee.showStudentInfo();
-		
+
 		Student studentKim = new Student();
-		
+
 		studentKim.studentId = 54321;
 		studentKim.address = "인천 남동구";
 		studentKim.studentName = "Kim";
-		
+
 		studentKim.showStudentInfo();
 	}
 }
