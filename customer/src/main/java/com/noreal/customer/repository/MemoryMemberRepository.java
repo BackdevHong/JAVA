@@ -1,6 +1,7 @@
 package com.noreal.customer.repository;
 
 import com.noreal.customer.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
