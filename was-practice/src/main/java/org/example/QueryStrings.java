@@ -19,7 +19,11 @@ public class QueryStrings {
 
     }
 
-    public int getValue(String key) {
-        return 0;
+    public String getValue(String key) {
+        return this.queryStrings.stream()
+                .filter(queryString -> queryString.exists(key))
+                .map(QueryString::getValue)
+                .findFirst()
+                .orElse(null);
     }
 }

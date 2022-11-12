@@ -11,3 +11,4 @@
         - queryString
     - Header ( 크게 필요 없음 )
     - Body ( 필요 없음 )
+- HttpResponse
