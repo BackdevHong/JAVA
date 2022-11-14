@@ -61,8 +61,9 @@
         -   템플릿 메서드 ( Template Method )
         -   인터프리터 ( Interpreter )
         -   이터레터 ( Iterator )
-        -   옵저버 ( Observer )
-        -   스트레티지 ( Strategy )
+        -   **옵저버 ( Observer )**
+        -   **스트레티지 ( Strategy )**
+            -   디자인 패턴에 꽃임
         -   비싯터 ( Visitor )
         -   체인 오브 리스폰시빌리티 ( Chain of responsibility )
         -   커맨드 ( Command )
