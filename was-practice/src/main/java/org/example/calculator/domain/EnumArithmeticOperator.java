@@ -1,8 +1,8 @@
-package org.example.calculator;
+package org.example.calculator.domain;
 
 import java.util.Arrays;
 
-public enum ArithmeticOperator {
+public enum EnumArithmeticOperator {
     ADDITION("+") {
         @Override
         public int ArithmeticCalculate(int operand1, int operand2) {
@@ -30,16 +30,16 @@ public enum ArithmeticOperator {
 
     private final String operator;
 
-    ArithmeticOperator(String operator) {
+    EnumArithmeticOperator(String operator) {
         this.operator = operator;
     }
 
     public static int calculate(int operand1, String operator, int operand2) {
-        ArithmeticOperator arithmeticOperator = Arrays.stream(values())
+        EnumArithmeticOperator enumArithmeticOperator = Arrays.stream(values())
                 .filter(v -> v.operator.equals(operator))
                 .findFirst()
                 .orElseThrow(() -> new IllegalArgumentException("올바른 사칙연산이 아닙니다."));
-        return arithmeticOperator.ArithmeticCalculate(operand1, operand2);
+        return enumArithmeticOperator.ArithmeticCalculate(operand1, operand2);
     }
 
     public abstract int ArithmeticCalculate(final int operand1, final int operand2);
