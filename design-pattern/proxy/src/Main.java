@@ -34,5 +34,7 @@ public class Main {
         );
         browser.show();
         System.out.println("loading time : " + end.get());
+        browser.show();
+        System.out.println("loading time : " + end.get());
     }
 }
