@@ -3,14 +3,20 @@ public class MembershipTest {
         Customer customerLee = new Customer(10010, "이순신");
         customerLee.bonusPoint = 1000;
 
+        System.out.println(customerLee.CalcPrice(10000));
+
         VIPCustomer customerKim= new VIPCustomer(10020, "김유신");
         customerKim.bonusPoint = 1000;
 
+        System.out.println(customerKim.CalcPrice(10000));
+
+        Customer vc = new VIPCustomer(12345, "noname");
+        vc.bonusPoint = 0;
+
+        System.out.println(vc.CalcPrice(10000));
+
         System.out.println(customerLee.showCustomerInfo());
         System.out.println(customerKim.showCustomerInfo());
-
-        Customer vc = new VIPCustomer(0, "no-name");
-
         System.out.println(vc.showCustomerInfo());
     }
 }

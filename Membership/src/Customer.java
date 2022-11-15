@@ -10,8 +10,6 @@ public class Customer {
         bonusPointRatio = 0.01;
         this.customerId = customerId;
         this.customerName = customerName;
-
-        System.out.println("Customer(int, String) 호출됨.");
     }
 
     public int CalcPrice(int price) {

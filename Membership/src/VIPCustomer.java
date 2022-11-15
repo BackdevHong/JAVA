@@ -8,8 +8,15 @@ public class VIPCustomer extends Customer{
         customerGrade = "VIP";
         bonusPointRatio = 0.05;
         salesRatio = 0.1;
-        System.out.println("VIPCustomer(int, String) 호출됨.");
     }
+
+    @Override
+    public int CalcPrice(int price) {
+        bonusPoint += price * bonusPointRatio;
+        price -= (int) (price * salesRatio);
+        return price;
+    }
+
 
     public int getAgentId() {
         return agentId;
