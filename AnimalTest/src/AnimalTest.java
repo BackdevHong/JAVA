@@ -35,7 +35,7 @@ class Eagle extends Animal {
     }
 
     public void flying() {
-        System.out.println("독수리가 양 날대를 쫙 펴고 날아다닙니다.");
+        System.out.println("독수리가 양 날개를 쫙 펴고 날아다닙니다.");
     }
 }
 public class AnimalTest {
@@ -50,18 +50,30 @@ public class AnimalTest {
         animalList.add(tAnimal);
         animalList.add(hAnimal);
 
-        for (Animal a : animalList) {
-            a.move();
-        }
+        AnimalTest t = new AnimalTest();
+        t.actAnimal(animalList);
 
-//        AnimalTest t = new AnimalTest();
-
-//        t.moveAnimal(hAnimal);
-//        t.moveAnimal(tAnimal);
-//        t.moveAnimal(eAnimal);
     }
 
-//    public void moveAnimal(Animal animal) {
-//        animal.move();
-//    }
+    public void moveAnimal(Animal animal) {
+        animal.move();
+    }
+
+//  Down Casting
+    public void actAnimal(ArrayList<Animal> animals) {
+        for (Animal animal : animals) {
+            if(animal instanceof Human) {
+                Human human = (Human) animal;
+                human.readBook();
+            } else if ( animal instanceof Tiger ) {
+                Tiger tiger = (Tiger) animal;
+                tiger.hunting();
+            } else if ( animal instanceof Eagle ) {
+                Eagle eagle = (Eagle) animal;
+                eagle.flying();
+            } else {
+                System.out.println("잘못된 타입입니다.");
+            }
+        }
+    }
 }

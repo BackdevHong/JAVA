@@ -1,3 +1,7 @@
+import customer.Customer;
+import customer.GoldCustomer;
+import customer.VIPCustomer;
+
 public class MembershipTest {
     public static void main(String[] args) {
         Customer customerLee = new Customer(10010, "이순신");
@@ -15,8 +19,14 @@ public class MembershipTest {
 
         System.out.println(vc.CalcPrice(10000));
 
+        Customer customerHong = new GoldCustomer(10030, "홍인성");
+        customerHong.bonusPoint = 0;
+
+        System.out.println(customerHong.CalcPrice(10000));
+
         System.out.println(customerLee.showCustomerInfo());
         System.out.println(customerKim.showCustomerInfo());
         System.out.println(vc.showCustomerInfo());
+        System.out.println(customerHong.showCustomerInfo());
     }
 }

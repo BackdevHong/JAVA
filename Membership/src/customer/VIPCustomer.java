@@ -1,3 +1,5 @@
+package customer;
+
 public class VIPCustomer extends Customer{
     private double salesRatio;
     private int agentId;

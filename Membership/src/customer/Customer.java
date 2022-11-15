@@ -1,9 +1,11 @@
+package customer;
+
 public class Customer {
     protected int customerId;
     protected String customerName;
     protected String customerGrade;
-    int bonusPoint;
-    double bonusPointRatio;
+    public int bonusPoint;
+    protected double bonusPointRatio;
 
     public Customer(int customerId, String customerName) {
         customerGrade = "SILVER";
