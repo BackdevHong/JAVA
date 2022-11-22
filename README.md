@@ -1,1 +1,3 @@
-# Java-DataStructure
+# 자바 자료구조 구현
+자바에서 자료구조를 실제로 구현해보았습니다.
+[이 강좌](https://fastcampus.co.kr/dev_online_javaend)를 참고하였습니다. 문제가 될시 바로 삭제 예정입니다.
