@@ -5,3 +5,4 @@
 # 구현한 종류
 
 - [배열(Array)](https://github.com/BackdevHong/Java-DataStructure/tree/main/Array/src)
+- [연결리스트(LinkedList)](https://github.com/BackdevHong/Java-DataStructure/tree/main/LinkedList/src)
