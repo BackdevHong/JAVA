@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class Member {
     private int memberId; // 멤버 id
     private String memberName; // 멤버 이름
@@ -26,5 +28,18 @@ public class Member {
                 "memberId=" + memberId +
                 ", memberName='" + memberName + '\'' +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Member member = (Member) o;
+        return memberId == member.memberId;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(memberId);
     }
 }
