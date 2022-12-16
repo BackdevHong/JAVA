@@ -4,7 +4,7 @@
 
 # 구현한 종류
 
-- [배열(Array)](https://github.com/BackdevHong/Java-DataStructure/tree/main/Array/src)
-- [연결리스트(LinkedList)](https://github.com/BackdevHong/Java-DataStructure/tree/main/LinkedList/src)
-- [스택(Stack)](https://github.com/BackdevHong/Java-DataStructure/tree/main/Stack/src)
-- [큐(Queue)](https://github.com/BackdevHong/Java-DataStructure/tree/main/Queue/src)
+- [배열(Array)](https://github.com/BackdevHong/Java-All/tree/main/Java-DataStructure/Array/src)
+- [연결리스트(LinkedList)](https://github.com/BackdevHong/Java-All/tree/main/Java-DataStructure/LinkedList/src)
+- [스택(Stack)](https://github.com/BackdevHong/Java-All/tree/main/Java-DataStructure/Stack/src)
+- [큐(Queue)](https://github.com/BackdevHong/Java-All/tree/main/Java-DataStructure/Queue/src)
