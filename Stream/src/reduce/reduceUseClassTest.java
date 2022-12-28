@@ -1,4 +1,4 @@
-package stream;
+package reduce;
 
 import java.util.Arrays;
 import java.util.function.BinaryOperator;

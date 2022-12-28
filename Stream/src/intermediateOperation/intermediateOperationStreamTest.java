@@ -1,4 +1,4 @@
-package stream;
+package intermediateOperation;
 
 import java.util.Arrays;
 
