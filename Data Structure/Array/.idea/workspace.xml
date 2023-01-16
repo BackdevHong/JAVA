@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca3ec03-607b-4fa8-9b1b-a28dee002e93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrayTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ca3ec03-607b-4fa8-9b1b-a28dee002e93" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673888812066</updated>
-      <workItem from="1673888812855" duration="3455000" />
+      <workItem from="1673888812855" duration="3501000" />
     </task>
     <servers />
   </component>
