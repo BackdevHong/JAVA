@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca3ec03-607b-4fa8-9b1b-a28dee002e93" name="Changes" comment="" />
+    <list default="true" id="6ca3ec03-607b-4fa8-9b1b-a28dee002e93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queue/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -99,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673888812066</updated>
       <workItem from="1673888812855" duration="3501000" />
+      <workItem from="1674030789873" duration="100000" />
     </task>
     <servers />
   </component>
