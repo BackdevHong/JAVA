@@ -15,6 +15,12 @@
     -   [큐를 선언해보고 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Queue/src/QueueClassTest.java)
     -   [큐를 ArrayList로 구현할 수 있을까?(**숙제**)]()
 
+# Homework
+
+|  과제 챕터  |                                 과제 내용                                  | 과제 성공 여부 |
+| :---------: | :------------------------------------------------------------------------: | :------------: |
+| Array(배열) | [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2) |      [X]       |
+
 # Thanks To
 
 Fastcampus
