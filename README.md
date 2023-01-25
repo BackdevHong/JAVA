@@ -14,7 +14,8 @@
 -   [Queue(큐)](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/Queue/src)
     -   [큐를 선언해보고 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Queue/src/QueueClassTest.java)
     -   [큐를 ArrayList로 구현할 수 있을까?(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Queue/src/QueueHomework.java)
--   [Stack(스택)]()
+-   [Stack(스택)](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/Stack/src)
+    -   [스택을 선언해보고 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Stack/src/StackClassTest.java)
 
 # Homework
 
