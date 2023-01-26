@@ -16,6 +16,7 @@
     -   [큐를 ArrayList로 구현할 수 있을까?(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Queue/src/QueueHomework.java)
 -   [Stack(스택)](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/Stack/src)
     -   [스택을 선언해보고 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Stack/src/StackClassTest.java)
+    -   [스택을 ArrayList로 구현할 수 있을까?(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Stack/src/StackHomework.java)
 
 # Homework
 
@@ -23,7 +24,7 @@
 | :---------: | :----------------------------------------------------------------------------------: | :------------: |
 | Array(배열) |      [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2)      |       O        |
 |  Queue(큐)  | [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e) |       O        |
-| Stack(스택) |                                     [내용준비중]                                     |       X        |
+| Stack(스택) | [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8) |       O        |
 
 # Thanks To
 
