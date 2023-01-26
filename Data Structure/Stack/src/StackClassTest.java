@@ -13,7 +13,6 @@ public class StackClassTest {
 
         System.out.println(myStack);
 
-
         System.out.println(myStack.pop()); // pop() 메서드는 끝에서 하나를 뺌
 
         System.out.println(myStack);
