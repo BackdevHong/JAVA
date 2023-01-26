@@ -3,7 +3,7 @@
 자바 알고리즘 레포지토리입니다.
 ( 주피터 노트북 쓰다가 도저히 안되겠어서 실 코드로 진행합니다 ㅎㅋ )
 
-# Chapter
+# Chapter : [Data Structure](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure)
 
 -   [Array(배열)](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/Array/src)
     -   [배열을 선언해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/Array/src/ArrayTest.java)
