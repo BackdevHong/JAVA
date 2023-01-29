@@ -1,3 +1,5 @@
+package Node;
+
 public class NodeTest {
     public static void main(String[] args) {
         Node<Integer> node1 = new Node<>(1);

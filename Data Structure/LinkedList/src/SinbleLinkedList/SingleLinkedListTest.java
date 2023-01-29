@@ -1,3 +1,5 @@
+package SinbleLinkedList;
+
 public class SingleLinkedListTest {
     public static void main(String[] args) {
         SingleLinkedList<Integer> MyLinkedList = new SingleLinkedList<>();

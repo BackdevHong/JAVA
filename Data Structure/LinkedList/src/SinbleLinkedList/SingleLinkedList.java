@@ -1,3 +1,7 @@
+package SinbleLinkedList;
+
+import Node.Node;
+
 public class SingleLinkedList<T> {
     public Node<T> head = null;
 
