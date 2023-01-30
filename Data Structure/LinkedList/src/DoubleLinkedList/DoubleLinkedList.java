@@ -62,4 +62,10 @@ public class DoubleLinkedList<T> {
         }
         return null;
     }
+
+    public void addNodeInside(T data, T isData) {
+        if (this.head == null) {
+            
+        }
+    }
 }
