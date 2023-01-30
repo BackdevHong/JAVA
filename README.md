@@ -32,12 +32,12 @@
 
 # Homework
 
-|         과제 챕터         |                                      과제 내용                                       | 과제 성공 여부 |
-| :-----------------------: | :----------------------------------------------------------------------------------: | :------------: |
-|        Array(배열)        |      [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2)      |       O        |
-|         Queue(큐)         | [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e) |       O        |
-|        Stack(스택)        | [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8) |       O        |
-| LinkedList(링크드 리스트) |                                     [내용준비중]                                     |       X        |
+|         과제 챕터         |                                          과제 내용                                           | 과제 성공 여부 |
+| :-----------------------: | :------------------------------------------------------------------------------------------: | :------------: |
+|        Array(배열)        |          [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2)          |       O        |
+|         Queue(큐)         |     [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e)     |       O        |
+|        Stack(스택)        |     [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8)     |       O        |
+| LinkedList(링크드 리스트) | [내용](https://backdevhong.notion.site/4-Doubly-LinkedList-f47e9bb614674cc5b5c237d326ffa5c8) |       X        |
 
 # Thanks To
 
