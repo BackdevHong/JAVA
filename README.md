@@ -28,15 +28,16 @@
         -   [싱글 링크드리스트에 중간에 값을 넣는 기능을 추가해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/SinbleLinkedList/SingleLinkedList.java)
         -   [싱글 링크드리스트에 중간에 값을 삭제하는 기능을 추가해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/SinbleLinkedList/SingleLinkedList.java)
         -   [우리가 구현한 싱글 링크드리스트를 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/SinbleLinkedList/SingleLinkedListTest.java)
-    -   [Double LinkedList(더블 링크드 리스트)]()
+    -   [Doubly LinkedList(더블 링크드 리스트)]()
 
 # Homework
 
-|  과제 챕터  |                                      과제 내용                                       | 과제 성공 여부 |
-| :---------: | :----------------------------------------------------------------------------------: | :------------: |
-| Array(배열) |      [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2)      |       O        |
-|  Queue(큐)  | [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e) |       O        |
-| Stack(스택) | [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8) |       O        |
+|         과제 챕터         |                                      과제 내용                                       | 과제 성공 여부 |
+| :-----------------------: | :----------------------------------------------------------------------------------: | :------------: |
+|        Array(배열)        |      [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2)      |       O        |
+|         Queue(큐)         | [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e) |       O        |
+|        Stack(스택)        | [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8) |       O        |
+| LinkedList(링크드 리스트) |                                     [내용준비중]                                     |       X        |
 
 # Thanks To
 
