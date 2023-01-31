@@ -28,7 +28,12 @@
         -   [싱글 링크드리스트에 중간에 값을 넣는 기능을 추가해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/SinbleLinkedList/SingleLinkedList.java)
         -   [싱글 링크드리스트에 중간에 값을 삭제하는 기능을 추가해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/SinbleLinkedList/SingleLinkedList.java)
         -   [우리가 구현한 싱글 링크드리스트를 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/SinbleLinkedList/SingleLinkedListTest.java)
-    -   [Doubly LinkedList(더블 링크드 리스트)]()
+    -   [Doubly LinkedList(더블 링크드 리스트)](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/LinkedList/src/DoubleLinkedList)
+        -   [더블 링크드리스트를 구현하기 위해 노드 구조를 바꿔보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleNode/Node.java)
+        -   [더블 링크드리스트를 구현해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
+        -   [우리가 구현한 더블 링크드리스트를 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedListTest.java)
+        -   [더블 링크드리스트에 원하는 노드를 찾아보자!(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
+        -   [위에서 만든 메소드를 이용해서 중간에 값을 넣는 기능을 추가해보자!(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
 
 # Homework
 
