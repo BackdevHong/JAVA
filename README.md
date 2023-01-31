@@ -35,14 +35,14 @@
         -   [더블 링크드리스트에 원하는 노드를 찾아보자!(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
         -   [위에서 만든 메소드를 이용해서 중간에 값을 넣는 기능을 추가해보자!(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
 
-# Homework
+# Homework (DataStructure)
 
 |         과제 챕터         |                                          과제 내용                                           | 과제 성공 여부 |
 | :-----------------------: | :------------------------------------------------------------------------------------------: | :------------: |
 |        Array(배열)        |          [내용](https://backdevhong.notion.site/1-5236f666615c4c1ea15e2395b3663ea2)          |       O        |
 |         Queue(큐)         |     [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e)     |       O        |
 |        Stack(스택)        |     [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8)     |       O        |
-| LinkedList(링크드 리스트) | [내용](https://backdevhong.notion.site/4-Doubly-LinkedList-f47e9bb614674cc5b5c237d326ffa5c8) |       X        |
+| LinkedList(링크드 리스트) | [내용](https://backdevhong.notion.site/4-Doubly-LinkedList-f47e9bb614674cc5b5c237d326ffa5c8) |       O        |
 
 # Thanks To
 
