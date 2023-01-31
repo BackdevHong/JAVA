@@ -15,5 +15,11 @@ public class DoubleLinkedListTest {
         System.out.println(doubleLinkedList.headSearch(2));
         System.out.println(doubleLinkedList.tailSearch(3));
         System.out.println(doubleLinkedList.tailSearch(5));
+
+        System.out.println(doubleLinkedList.addNodeInside(2, 3));
+        System.out.println(doubleLinkedList.addNodeInside(3, 4));
+        System.out.println(doubleLinkedList.addNodeInside(9, 9));
+
+        doubleLinkedList.printAll();
     }
 }

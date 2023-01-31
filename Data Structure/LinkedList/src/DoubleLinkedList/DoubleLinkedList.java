@@ -63,9 +63,33 @@ public class DoubleLinkedList<T> {
         return null;
     }
 
-    public void addNodeInside(T data, T isData) {
+    public boolean addNodeInside(T data, T isData) {
         if (this.head == null) {
-            
+            this.head = new Node<>(data);
+            this.tail = this.head;
+            return true;
+        } else if (this.head.data == isData){
+            Node<T> newNode = new Node<>(data);
+            newNode.next = this.head;
+            this.head = newNode;
+            return true;
+        } else {
+            Node<T> node = this.head;
+            while (node != null) {
+                if (node.data == isData) {
+                    Node<T> nodePrev = node.prev;
+
+                    nodePrev.next = new Node<>(data);
+                    nodePrev.next.next = node;
+
+                    nodePrev.next.prev = nodePrev;
+                    node.prev = nodePrev.next;
+                    return true;
+                } else {
+                    node = node.next;
+                }
+            }
+            return false;
         }
     }
 }
