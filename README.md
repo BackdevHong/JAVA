@@ -34,7 +34,7 @@
         -   [우리가 구현한 더블 링크드리스트를 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedListTest.java)
         -   [더블 링크드리스트에 원하는 노드를 찾아보자!(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
         -   [위에서 만든 메소드를 이용해서 중간에 값을 넣는 기능을 추가해보자!(**숙제**)](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/LinkedList/src/DoubleLinkedList/DoubleLinkedList.java)
--   [HashTable(해시테이블)]
+-   [HashTable(해시테이블)](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/HashTable/src)
     -   [해시테이블을 구현하기 위해 슬롯 클래스를 만들어보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/HashTable/Slot.java)
     -   [해시테이블 클래스를 구현해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/HashTable/MyHash.java)
     -   [해시테이블에 해시함수(Hash Function)을 만들어보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/HashTable/MyHash.java)
