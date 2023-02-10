@@ -47,7 +47,7 @@
         -   [Chaining Hash Table을 구현하기 위해 Slot 구조를 바꿔보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/ChainingHashTable/Slot.java)
         -   [Chaining Hash Table을 구현해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/ChainingHashTable/MyHash.java)
         -   [우리가 구현한 Chaining Hash Table을 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/ChainingHashTable/MyHashTest.java)
-    -   [충돌 해결 기법 2 - Linear Probing 기법]
+    -   [충돌 해결 기법 2 - Linear Probing 기법](https://github.com/BackdevHong/Java-Algorithm/tree/main/Data%20Structure/HashTable/src/LinearProbingHashTable)
         -   [Linear Probing Hash Table을 구현하기 위해 Slot 구조를 바꿔보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/LinearProbingHashTable/Slot.java)
         -   [Linear Probing Hash Table을 구현해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/LinearProbingHashTable/MyHash.java)
         -   [우리가 구현한 Linear Probing Hash Table을 사용해보자!](https://github.com/BackdevHong/Java-Algorithm/blob/main/Data%20Structure/HashTable/src/LinearProbingHashTable/MyHashTest.java)
