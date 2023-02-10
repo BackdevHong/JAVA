@@ -62,7 +62,7 @@
 |         Queue(큐)         |     [내용](https://backdevhong.notion.site/2-ArrayList-913dc652dc0b4ffab1b7a4f2f6c8954e)     |       O        |
 |        Stack(스택)        |     [내용](https://backdevhong.notion.site/3-ArrayList-f47e9bb614674cc5b5c237d326ffa5c8)     |       O        |
 | LinkedList(링크드 리스트) | [내용](https://backdevhong.notion.site/4-Doubly-LinkedList-f47e9bb614674cc5b5c237d326ffa5c8) |       O        |
-|   HashTable(해시테이블)   |                                        [내용 준비중]                                         |       X        |
+|   HashTable(해시테이블)   |                                          숙제 없음                                           | Null(숙제없음) |
 
 # Thanks To
 
