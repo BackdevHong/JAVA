@@ -1,5 +1,3 @@
-package Node;
-
 public class NodeMgmt {
     Node head = null;
 

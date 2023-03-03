@@ -1,5 +1,3 @@
-package Node;
-
 public class myTreeTest {
     public static void main(String[] args) {
         NodeMgmt myTree = new NodeMgmt();
